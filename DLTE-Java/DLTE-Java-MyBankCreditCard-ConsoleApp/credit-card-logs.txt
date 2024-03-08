@@ -92,3 +92,31 @@ Feb 29, 2024 5:46:09 PM app.mybank.middleware.CreditCardFileRepository save
 INFO: 1133445566Credit card approved by MyBank
 Mar 01, 2024 4:12:16 PM app.mybank.middleware.CreditCardDatabaseRepository findById
 INFO: Credit card number not available
+Mar 07, 2024 4:04:54 PM app.mybank.middleware.CreditCardFileRepository findAll
+INFO: All credit card information fetched
+Mar 07, 2024 4:04:54 PM app.mybank.middleware.CreditCardFileRepository save
+INFO: 1133445566Credit card approved by MyBank
+Mar 07, 2024 4:04:54 PM app.mybank.middleware.CreditCardFileRepository save
+WARNING: 2233445566Credit Card already exists
+Mar 08, 2024 3:29:40 PM app.mybank.middleware.CreditCardFileRepository findAll
+INFO: All credit card information fetched
+Mar 08, 2024 3:29:40 PM app.mybank.middleware.CreditCardFileRepository save
+INFO: 1133445566Credit card approved by MyBank
+Mar 08, 2024 3:29:40 PM app.mybank.middleware.CreditCardFileRepository save
+WARNING: 2233445566Credit Card already exists
+Mar 08, 2024 3:56:15 PM app.mybank.middleware.CreditCardFileRepository save
+INFO: 123456Credit card approved by MyBank
+Mar 08, 2024 3:58:05 PM app.mybank.middleware.TransactionFileRepository save
+INFO: New Merchant added
+Mar 08, 2024 3:58:05 PM app.mybank.middleware.TransactionFileRepository save
+INFO: Transaction successful
+Mar 08, 2024 3:58:40 PM app.mybank.middleware.TransactionFileRepository save
+INFO: New Merchant added
+Mar 08, 2024 3:58:40 PM app.mybank.middleware.TransactionFileRepository save
+INFO: Transaction successful
+Mar 08, 2024 4:00:23 PM app.mybank.middleware.TransactionFileRepository save
+INFO: Transaction successful
+Mar 08, 2024 4:00:44 PM app.mybank.middleware.TransactionFileRepository save
+INFO: New Merchant added
+Mar 08, 2024 4:00:44 PM app.mybank.middleware.TransactionFileRepository save
+INFO: Transaction successful
